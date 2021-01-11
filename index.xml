@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Dumitru Vulpe</title>
-    <link>https://example.com/</link>
+    <link>http://www.dumitruvulpe.com/</link>
     <description>Recent content in Resume on Dumitru Vulpe</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.dumitruvulpe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://www.dumitruvulpe.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>http://www.dumitruvulpe.com/contact/</guid>
       <description> Name: Dumitru Vulpe Email: dumitru.v.dv@gmail.com LinkedIn: https://www.linkedin.com/in/dumitru-v-baaa7411a GitHub: https://github.com/JamesTiberiusKirk   </description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://example.com/about/</link>
+      <link>http://www.dumitruvulpe.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>http://www.dumitruvulpe.com/about/</guid>
       <description>Bio   A 4th year Computing student and University of Dundee and a full stack developer with a strong points in Angular for the frontend and Nodejs for the backend; but also a lot of experience in other technologies and an eagerness to learn more.
  Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.</description>
     </item>
