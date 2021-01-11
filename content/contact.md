@@ -2,23 +2,9 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Name: Dumitru Vulpe
+* Email: [dumitru.v.dv@gmail.com](mailto:dumitru.v.dv@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a)
+* GitHub: [https://github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
 
 ---
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
