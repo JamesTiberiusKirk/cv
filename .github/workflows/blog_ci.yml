@@ -23,7 +23,6 @@ jobs:
       with:
         submodules: true
         ref: 'master'
-        token: '${{secrets.TOKEN}}'
 
     # Step 2 - Sets up the latest version of Hugo
     - name: Setup Hugo
