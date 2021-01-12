@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resume on Dumitru Vulpe</title>
+    <title>Dumitru Vulpe | Resume on Dumitru Vulpe</title>
     <link>http://www.dumitruvulpe.com/</link>
-    <description>Recent content in Resume on Dumitru Vulpe</description>
+    <description>Recent content in Dumitru Vulpe | Resume on Dumitru Vulpe</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.dumitruvulpe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
@@ -15,7 +15,7 @@
     </item>
     
     <item>
-      <title>Resume</title>
+      <title>Dumitru Vulpe | Resume</title>
       <link>http://www.dumitruvulpe.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
