@@ -30,9 +30,6 @@ math = false          # enable KaTeX (https://katex.org/) globally
   [[menu.main]]
     name = "Honours Project Blog"
     url =  "https://jamestiberiuskirk.github.io/fitness-logger/"
-  [[menu.main]]
-    name = "Contact me"
-    url = "/contact"
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
