@@ -1,6 +1,5 @@
 +++
-title = "Resume"
-subtitle = "blah"
+title = "Dumitru Vulpe | Resume"
 +++
 
 # Bio
