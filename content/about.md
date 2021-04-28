@@ -6,12 +6,13 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; A 4th year Computing student and University of Dundee and a full stack developer with a strong points in Angular for the frontend and Nodejs, GoLang and Java for the backend; but also a lot of experience in other technologies and an eagerness to learn more.
+&nbsp; Recent Computing graduate from University of Dundee and full stack developer with a strong points in Angular for the frontend and Nodejs, GoLang and Java for the backend; but also a lot of experience in other technologies and an eagerness to learn more.
 
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.
 
 # Experience 
 ## Backend
+- Experience with developing microservices
 - Main strong point with **Nodejs** with express framework, **GoLang** with echo framework and **Java** - Spring/boot 
 - Advanced experience with **Docker** deployments and building Docker images
 - Experience with **MySQL/MariaDB**, **PostgreSQL**, **MongoDB** databases
@@ -21,6 +22,7 @@ title = "Dumitru Vulpe | Resume"
 ## Frontend
 - Great understanding of the **JavaScript** and the javascript DOM object
 - **Angular** and **TypeScript** development for the general web and on the **Ionic/Cordova** platform
+- **Flutter** for android development
 
 ## Other Tech Skills 
 - **Agile:** experience with managing and collaborating within projects from university modules and within internships.
