@@ -11,8 +11,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.dumitruvulpe.com/about/</guid>
-      <description>Bio   Recent Computing graduate from University of Dundee and full stack developer with a strong points in Angular for the frontend and Nodejs, GoLang and Java for the backend; but also a lot of experience in other technologies and an eagerness to learn more.
- Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.</description>
+      <description>Bio    Computing graduate from University of Dundee and now a backend engineer writing microservices with Golang on the AWS platform, more experience in other technologies and an eagerness to learn more.
+ Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.
+Experience Backend  Experience with developing lambda microservices with GoLang, terraform, and other AWS features Main strong point with GoLang with echo framework, Nodejs with express framework, and Java - Spring/boot Advanced experience with Docker deployments and building Docker images Experience with MySQL/MariaDB, PostgreSQL, MongoDB databases Experience with Kafka, SQS and Kinesis messaging event services Moderate experience in C/C++, C#, PHP  Frontend  Great understanding of the JavaScript and the javascript DOM object Ionic and Angular with TypeScript development for the general web and on the Ionic/Cordova platform Flutter for android development  Other Tech Skills  Agile: experience with managing and collaborating within projects from university modules and within internships.</description>
     </item>
     
   </channel>
