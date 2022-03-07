@@ -27,10 +27,6 @@ title = "Dumitru Vulpe | Resume"
 - **Agile:** experience with managing and collaborating within projects from university modules and within internships.
 - **Git:** extensive experience with Git for code versioning and collaboration.
 - Extensive experience with **Linux** environments  
-&nbsp; - Server administration  
-&nbsp; - Setting up nice environments  
-&nbsp; - Picked up skills such as containerisation with **Docker** and LXC/LXD  
-&nbsp; - Experience with virtualisation  
 - Experience setting up **CI/CD** systems using **GitHuib Actions and Workflows**
 - Moderate to advanced experience with **Bash** scripting
 - Experienced in OpenGl with **C++** from university module
@@ -38,7 +34,7 @@ title = "Dumitru Vulpe | Resume"
 # Work Experience
 - **Backend Golang Software Engineer at Xiatech**: from August 2021 until present
 &nbsp; - Creating systems for a SaaS data platform which deals with mutating and transforming data from all sorts of different external systems.  
-&nbsp; - All of this was done using Golang, terraform/terragrunt, on the AWS plantform
+&nbsp; - All of this was done using Golang, terraform/terragrunt on AWS 
 - **Software Engineer at NCR:**  
 &nbsp; - Part time employment (2019-2020): continuation of 2nd internship during 4th year at University.  
 &nbsp; - Summer of 2020 internship: Taking part of an Agile team and committing production code for an Angular frontend and Java Spring backend.  
