@@ -36,7 +36,7 @@ title = "Dumitru Vulpe | Resume"
 &nbsp; - Creating systems for a SaaS data platform which deals with mutating and transforming data from all sorts of different external systems.  
 &nbsp; - All of this was done using Golang, terraform/terragrunt on AWS 
 - **Software Engineer at NCR:**  
-&nbsp; - Part time employment (2019-2020): continuation of 2nd internship during 4th year at University.  
+&nbsp; - Part time employment (2019-2020): continuing my 2nd internship during my 4th year at University.  
 &nbsp; - Summer of 2020 internship: Taking part of an Agile team and committing production code for an Angular frontend and Java Spring backend.  
 &nbsp; - Summer of 2019 internship: 11 week long internship in the summer of 2019. I worked with some internal Tomcat APIs in order to make a cross-platform mobile application with Angular on top of Ionic while we were tying to implement Keycloak (external OAuth2 system) authentication between the app and the Tomcat API servers all on docker containers.  
 - **Tutoring:** Computing tutoring for University of Dundee during my studies there.
