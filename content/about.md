@@ -31,10 +31,10 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
-- **Backend Golang Software Engineer at Xiatech**: from August 2021 until present
+- **Backend Golang Software Engineer at Xiatech**: from August 2021 until present   
 &nbsp; - Creating systems for a SaaS data platform which deals with mutating and transforming data from all sorts of different external systems.  
 &nbsp; - All of this was done using Golang, terraform/terragrunt on AWS 
-- **Software Engineer at NCR:**  from 2019 - 2021
+- **Software Engineer at NCR:**  from 2019 - 2021  
 &nbsp; - Graduate position (two months in summer of 2021): picking up where I left with my internships
 &nbsp; - Part time employment (2020-2021): continuing my 2nd internship during my 4th year at University.  
 &nbsp; - Summer of 2020 internship: Taking part of an Agile team and committing production code for an Angular frontend and Java Spring backend.  
