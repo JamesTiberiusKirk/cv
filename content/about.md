@@ -32,17 +32,16 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
-- **Backend Golang Software Engineer at Redbrain**: from October 2022 until present  
-&nbsp; - Connecting Shopify merchants with Google shopping and custom Adsense campaigns
-- **Backend Golang Software Engineer at Xiatech**: from August 2021 until September 2022  
-&nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs 
+- **Backend Golang Software Engineer at Redbrain**: from October 2022 until present   
+&nbsp; - Connecting Shopify merchants with Google shopping and custom Adsense campaigns 
+- **Backend Golang Software Engineer at Xiatech**: from August 2021 until September 2022   
+&nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs  
 - **Software Engineer at NCR:**  from 2019 - 2021  
-&nbsp; - Graduate position (two months in summer of 2021): picking up where I left with my internships
-&nbsp; - Part time employment (2020-2021): continuing my 2nd internship during my 4th year at University.  
-&nbsp; - Summer of 2020 internship: Taking part of an Agile team and committing production code for an Angular frontend and Java Spring backend.  
+&nbsp; - Graduate position (two months in summer of 2021): picking up where I left with my internships  
+&nbsp; - Part time employment (2020-2021): continuing my 2nd internship during my 4th year at University   
+&nbsp; - Summer of 2020 internship: Taking part of an Agile team and committing production code for an Angular frontend and Java Spring backend.   
 &nbsp; - Summer of 2019 internship: 11 week long internship in the summer of 2019. I worked with some internal Tomcat APIs in order to make a cross-platform mobile application with Angular on top of Ionic while we were tying to implement Keycloak (external OAuth2 system) authentication between the app and the Tomcat API servers all on docker containers.  
-- **Tutoring:** Computing tutoring for University of Dundee during my studies there.
-- And more...
+- **Tutoring:** Computing tutoring for University of Dundee during my studies there.  
 <!--- **Kicktek Ltd:** 2016 summer job working as an IT assistant and working on their e-commerce installation, learning how it works, suggesting fixes, improvements, etc.-->
 <!--- **Civica UK Ltd:** 1 week of work experience, lightly shadowing their software development routine, testing, updating, deployment and maintenance.-->
 <!--- **Redbridge College:** Year long work experience (1 day a week) took a position in the IT network and service team. Had responsibilities such as responding to help desk requests, testing equipment, repairs and others.-->
