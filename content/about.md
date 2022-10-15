@@ -32,9 +32,9 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
-- **Backend Golang Software Engineer at Redbrain**: from October 2022 until present
+- **Backend Golang Software Engineer at Redbrain**: from October 2022 until present  
 &nbsp; - Connecting Shopify merchants with Google shopping and custom Adsense campaigns
-- **Backend Golang Software Engineer at Xiatech**: from August 2021 until September 2022
+- **Backend Golang Software Engineer at Xiatech**: from August 2021 until September 2022  
 &nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs 
 - **Software Engineer at NCR:**  from 2019 - 2021  
 &nbsp; - Graduate position (two months in summer of 2021): picking up where I left with my internships
