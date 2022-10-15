@@ -14,7 +14,7 @@ title = "Dumitru Vulpe | Resume"
 ## Backend
 - Experience with developing **Lambda** \& **Kubernates** microservices with **GoLang**, **Terraform** on **AWS** \& **GCP**
 - Working with **gRPC**, **REST** \& **GraphQL** endpoints
-- Main focus is **Go**; Advanced experience with **Nodejs*, **Java**, and others
+- Main focus is **Go**; Advanced experience with **Nodejs**, **Java**, and others
 - Advanced experience with **Docker** and other container systems
 - Experience with **MySQL/MariaDB**, **PostgreSQL**, **MongoDB** databases
 - Experience with **Kafka**, **SQS** and **Kinesis** messaging event services
