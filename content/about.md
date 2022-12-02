@@ -6,13 +6,13 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; Computing graduate from University of Dundee and now a backend engineer writing microservices with Golang on GCP, more experience in other technologies and an eagerness to learn more.
+&nbsp; Computing graduate from University of Dundee and now a backend engineer writing microservices with Go on GCP, more experience in other technologies and an eagerness to learn more.
 
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.
 
 # Experience 
 ## Backend
-- Experience with developing **Lambda** \& **Kubernates** microservices with **GoLang**, **Terraform** on **AWS** \& **GCP**
+- Experience with developing **Lambda** \& **Kubernates** microservices with **Go**, **Terraform** on **AWS** \& **GCP**
 - Working with **gRPC**, **REST** \& **GraphQL** endpoints
 - Main focus is **Go**; Advanced experience with **Nodejs*, **Java**, and others
 - Advanced experience with **Docker** and other container systems
@@ -21,21 +21,23 @@ title = "Dumitru Vulpe | Resume"
 
 ## Frontend
 - **React Native** for Android and IOS development
-- Great understanding of **JavaScript/TypeScript** and the javascript DOM object
+- Great understanding of **JavaScript/TypeScript** and the Javascript DOM object
 - **Ionic** and **Vue/Angular/React** development for the general web and on the **Ionic/Cordova** mobile platform
 
 ## Other Tech Skills 
-- **Agile:** experience with managing and collaborating within projects 
+- **Agile & Kanban:** experience with managing and collaborating within projects 
 - **Git:** extensive experience with Git for code versioning and collaboration
 - Extensive experience with **Linux** environments
 - Experience setting up **CI/CD** systems using **GitHuib Actions and Workflows**
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
-- **Backend Golang Software Engineer at Redbrain**: from October 2022 until present
-&nbsp; - Connecting Shopify merchants with Google shopping and custom Adsense campaigns
-- **Backend Golang Software Engineer at Xiatech**: from August 2021 until September 2022
-&nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs 
+- **Backend Go Software Engineer at Redbrain**: from October 2022 until present  
+&nbsp; - Go microservices in Kubernates on GCP using PubSub and gRPC backed by PostgreSQL  
+&nbsp; - Connecting Shopify merchants with Google shopping and custom Adsense campaigns  
+- **Backend Go Software Engineer at Xiatech**: from August 2021 until September 2022  
+&nbsp; - Go microservice Lambdas on AWS with terraform using SQS and Kinesis queues backed by MongoDB  
+&nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs   
 - **Software Engineer at NCR:**  from 2019 - 2021  
 &nbsp; - Graduate position (two months in summer of 2021): picking up where I left with my internships
 &nbsp; - Part time employment (2020-2021): continuing my 2nd internship during my 4th year at University.  
@@ -51,7 +53,7 @@ title = "Dumitru Vulpe | Resume"
 - Created and managed Dundee University Rock and Metal Society, organising different events including live musical concerts and more
 - Several years of class representative experience in University and college.
 - 1 year of representing the School of Computing in the Vice President position.
-- Participated in UKRock (national model rocketry competition) and ended up representing UK in the international competition.
+- Participated in UKRock (national model rocketry competition) and ended up representing UK in the international competitions.
 
 # Non-Tech Skills
 - The ability to quickly pickup different workflows and required technical skills.
