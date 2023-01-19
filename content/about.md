@@ -33,7 +33,7 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
-- **Backend Go Software Engineer at Redbrain**: from October 2022 until present  
+- **Backend Go Software Engineer at Redbrain**: from October 2022 until January 2023  
 &nbsp; - Go microservices in Kubernetes on GCP using PubSub and gRPC backed by PostgreSQL  
 &nbsp; - Connecting Shopify merchants with Google shopping and custom Ads campaigns  
 - **Backend Go Software Engineer at Xiatech**: from August 2021 until September 2022  
@@ -48,6 +48,9 @@ title = "Dumitru Vulpe | Resume"
 <!--- **Kicktek Ltd:** 2016 summer job working as an IT assistant and working on their e-commerce installation, learning how it works, suggesting fixes, improvements, etc.-->
 <!--- **Civica UK Ltd:** 1 week of work experience, lightly shadowing their software development routine, testing, updating, deployment and maintenance.-->
 <!--- **Redbridge College:** Year long work experience (1 day a week) took a position in the IT network and service team. Had responsibilities such as responding to help desk requests, testing equipment, repairs and others.-->
+
+## Uni
+- Finished Applied Computing at University of Dundee
 
 # Other Experiences/Achievements
 - Created and managed Dundee University Rock and Metal Society, organising different events including live musical concerts and more
