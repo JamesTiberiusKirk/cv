@@ -4,16 +4,17 @@
     <title>Dumitru Vulpe | Resume on Dumitru Vulpe</title>
     <link>http://www.dumitruvulpe.com/</link>
     <description>Recent content in Dumitru Vulpe | Resume on Dumitru Vulpe</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://www.dumitruvulpe.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.dumitruvulpe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dumitru Vulpe | Resume</title>
       <link>http://www.dumitruvulpe.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.dumitruvulpe.com/about/</guid>
-      <description>Bio Backend engineer writing microservices with Go on GCP, more experience in other technologies and an eagerness to learn more.
+      <description>Bio Freelance developer and full stack engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.
 Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.
-Experience Backend Main focus is Go; Advanced experience with Nodejs, Java, and others Building and maintaining microservices in Kubernetes on cloud hosting (GCP) Building serverless Lambda solutions adopting an “infrastructure as code” approach through Terraform Working with gRPC, REST &amp;amp; GraphQL endpoints Advanced experience with Docker and other container systems Experience with MySQL/MariaDB, PostgreSQL, MongoDB databases Managing large volumes of data and asynchronous with SQS, Kinesis, PubSub, Kafka messaging event services Frontend React Native for Android and IOS development Great understanding of JavaScript/TypeScript and the Javascript DOM object Ionic and Vue/Angular/React development for the general web and on the Ionic/Cordova mobile platform Other Tech Skills Agile &amp;amp; Kanban: experience with managing and collaborating within projects Git: extensive experience with Git for code versioning and collaboration Extensive experience with Linux/Unix environments Experience setting up CI/CD systems using GitHub &amp;amp; GitLab Actions and Workflows Moderate to advanced experience with Bash scripting Work Experience Backend Go Software Engineer at Redbrain: from October 2022 until present</description>
+Experience Backend Main focus is Go; Advanced experience with Nodejs, Java, and others Building and maintaining microservices in Kubernetes on cloud hosting (GCP) Building serverless Lambda solutions adopting an “infrastructure as code” approach through Terraform Working with gRPC, REST &amp;amp; GraphQL endpoints Advanced experience with Docker and other container systems Experience with MySQL/MariaDB, PostgreSQL, MongoDB databases Managing large volumes of data and asynchronous with SQS, Kinesis, PubSub, Kafka messaging event services Frontend/Full stack NextJS meta framework used for rapid website development React Native for Android and IOS development Great understanding of JavaScript/TypeScript and the Javascript DOM object Ionic and Vue/Angular/React development for the general web and on the Ionic/Cordova mobile platform Other Tech Skills Agile &amp;amp; Kanban: experience with managing and collaborating within projects Git: extensive experience with Git for code versioning and collaboration Extensive experience with Linux/Unix environments Experience setting up CI/CD systems using GitHub &amp;amp; GitLab Actions and Workflows Moderate to advanced experience with Bash scripting Work Experience Full stack Go and NextJS engineer at Aviva: from March 2023 until present Backend Go Software Engineer at Redbrain: from October 2022 until January 2023</description>
     </item>
     
   </channel>
