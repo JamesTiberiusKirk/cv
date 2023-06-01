@@ -6,7 +6,7 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; Backend engineer writing microservices with Go on GCP, more experience in other technologies and an eagerness to learn more. 
+&nbsp; Freelance developer and full stack engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more. 
 
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.   
 
@@ -20,7 +20,8 @@ title = "Dumitru Vulpe | Resume"
 - Experience with **MySQL/MariaDB**, **PostgreSQL**, **MongoDB** databases
 - Managing large volumes of data and  asynchronous with **SQS**, **Kinesis**, **PubSub**, **Kafka** messaging event services
 
-## Frontend
+## Frontend/Full stack
+- NextJS meta framework used for rapid website development
 - **React Native** for Android and IOS development
 - Great understanding of **JavaScript/TypeScript** and the Javascript DOM object
 - **Ionic** and **Vue/Angular/React** development for the general web and on the **Ionic/Cordova** mobile platform
@@ -33,6 +34,7 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 # Work Experience
+- **Full stack Go and NextJS engineer at Aviva**: from March 2023 until present  
 - **Backend Go Software Engineer at Redbrain**: from October 2022 until January 2023  
 &nbsp; - Go microservices in Kubernetes on GCP using PubSub and gRPC backed by PostgreSQL  
 &nbsp; - Connecting Shopify merchants with Google shopping and custom Ads campaigns  
