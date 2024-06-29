@@ -69,7 +69,6 @@ title = "Dumitru Vulpe | Resume"
 - Excellent team player and leadership and planning skills (plenty of experience from leading University team projects, taking part of competitions and from managing the Rock and Metal Society)
 
 # Contact Me
-* Name: Dumitru Vulpe
 * Email: [dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com)
 * LinkedIn: [https://www.linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a)
 * GitHub: [https://github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
