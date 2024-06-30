@@ -6,7 +6,7 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; University of Dundee Computing graduate, Freelance developer and full stack engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.   
+&nbsp; University of Dundee Computing graduate, freelance developer and full stack engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.   
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.   
 
 ## Contact Me
