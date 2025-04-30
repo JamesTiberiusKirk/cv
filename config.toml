@@ -14,7 +14,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
     url = "https://github.com/jamestiberiuskirk"
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:contentbasename"
 
 [menu]
   [[menu.main]]
