@@ -2,17 +2,15 @@
 title = "Dumitru Vulpe | Resume"
 +++
 
+[dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com) | [linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a) | [github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
+
 ## Bio
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; University of Dundee Computing graduate, freelance developer and full stack engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.   
+&nbsp; Full time and freelance engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.   
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.   
-
-## Contact Me
-* Email: [dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com)
-* LinkedIn: [https://www.linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a)
-* GitHub: [https://github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
+&nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying, fixing and maintaining cars.
 
 ## Backend Experience
 - Main focus is **Go**; Advanced experience with **Nodejs**, **Java**, and others
@@ -21,13 +19,15 @@ title = "Dumitru Vulpe | Resume"
 - Working with **gRPC**, **REST** \& **GraphQL** APIs
 - Advanced experience with **Docker** and other container systems
 - Experience with **MySQL/MariaDB**, **PostgreSQL**, **MongoDB** and **DynamoDB** databases
+- Proxying and tls management with **Apache/Nginx**, **ngnx-proxy-manager** and **Traefik**  
 - Managing large volumes of data and  asynchronous with **SQS**, **Kinesis**, **PubSub**, **Kafka** messaging event services
+- Metrics and dashboards with **Prometheus**, **Cloud watch metrics**, **Grafana**
 
 ## Frontend/Full stack Experience
+- Go templating with **Templ**, **HTMX**, **hyprscript** and **alpine.js**
 - **NextJS** meta framework \& **React** used for rapid website development
 - **React Native** for Android and IOS development
 - Great understanding of **JavaScript/TypeScript** and the Javascript DOM object
-- **Ionic** and **Vue/Angular/React** development for the general web and on the **Ionic/Cordova** mobile platform
 
 ## Other Tech Skills 
 - **Agile & Kanban:** experience with managing and collaborating within projects 
