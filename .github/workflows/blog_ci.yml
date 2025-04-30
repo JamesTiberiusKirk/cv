@@ -23,9 +23,9 @@ jobs:
 
     # Step 2 - Sets up the latest version of Hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v4
       with:
-          hugo-version: 'latest'
+          hugo-version: '0.147.0'
 
     # Step 3 - Clean and don't fail
     - name: Clean public directory
