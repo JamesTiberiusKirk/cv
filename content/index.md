@@ -8,19 +8,19 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; Full time and freelance engineer writing microservices with Go and NextJS on AWS, more experience in other technologies and an eagerness to learn more.   
-&nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news, specifically in the security, Open-Source and hardware sectors.   
-&nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying, fixing and maintaining cars.
+&nbsp; Full time and freelance engineer working with go writing microservices on multi cloud kubernates clusters acroos aws, gcp, and azure.
+&nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news in said topics.
+&nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying/fixing and maintaining cars.
 
 ## Backend Experience
-- Main focus is **Go**; Advanced experience with **Nodejs**, **Java**, and others
-- Building and maintaining microservices in **Kubernetes** on cloud hosting (GCP & GKE)
+- Main focus is **Go**; Advanced experience with **Nodejs** and passing exp with **Java**, etc
+- Building and maintaining microservices for **Kubernetes** with a multicloud architectures
 - Building serverless **Lambda** solutions adopting an “infrastructure as code” approach with **Terraform** and **CDK**
-- Working with **gRPC**, **REST** \& **GraphQL** APIs
+- Working with **gRPC**, **REST** \& (some) **GraphQL** APIs
 - Advanced experience with **Docker** and other container systems
-- Experience with **MySQL/MariaDB**, **PostgreSQL**, **MongoDB** and **DynamoDB** databases
-- Proxying and tls management with **Apache/Nginx**, **ngnx-proxy-manager** and **Traefik**  
-- Managing large volumes of data and  asynchronous with **SQS**, **Kinesis**, **PubSub**, **Kafka** messaging event services
+- Experience with **PostgreSQL/CockroachDB**, **MySQL/MariaDB**, **MongoDB** and **DynamoDB** databases
+- Proxying and tls management with **Apache/Nginx** and **Traefik**  
+- Managing large volumes of data and  asynchronous with **Nats**, **SQS**, **Kinesis**, **PubSub**, **Kafka** messaging event services
 - Metrics and dashboards with **Prometheus**, **Cloud watch metrics**, **Grafana**
 
 ## Frontend/Full stack Experience
@@ -37,7 +37,9 @@ title = "Dumitru Vulpe | Resume"
 - Moderate to advanced experience with **Bash** scripting
 
 ## Work Experience (from 2019 until present)
-- **Full stack Go and NextJS engineer at Aviva**: from March 2023 until present  
+- **Senior software engineer at Form3**: From August 2025 until present
+&nbsp; - Developing payment processing software to power bank to bank transactions in Europe and UK and deploying it on a multicloud kubernates architecture.
+- **Full stack Go and NextJS engineer at Aviva**: from March 2023 until June 2025
 &nbsp; - Pioneering new technology stack within the company for a car insurance platform by developing Go Lambda functions for the backend and NextJS for customer portals   
 &nbsp; - Led a very large technical migration for the **templ** Go library, involving format shifting hundreds of files in a core repository, which in turn had to be blocked from any additional changes in the meantime
 - **Backend Go Software Engineer at Redbrain**: from October 2022 until January 2023  
