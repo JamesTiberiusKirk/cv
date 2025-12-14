@@ -8,7 +8,8 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; Full time and freelance engineer working with go writing microservices on multi cloud kubernates clusters acroos aws, gcp, and azure.
+&nbsp; Full time and freelance engineer working with GO writing microservices on multi cloud kubernates clusters across aws, gcp, and azure.
+
 &nbsp; Main tech related interests are mostly in backend development, dev-ops, general programming/scripting, security and generally keeping up with tech news in said topics.
 &nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying/fixing and maintaining cars.
 
