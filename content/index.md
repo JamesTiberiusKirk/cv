@@ -9,8 +9,7 @@ title = "Dumitru Vulpe | Resume"
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
 &nbsp; Full time and freelance engineer working with GO writing microservices on multi cloud Kubernetes clusters across aws, gcp, and azure.
-
-&nbsp; My main tech related interests are in backend development, dev-ops, security and generally keeping up with news in said topics. 
+My main tech related interests are in backend development, dev-ops, security and generally keeping up with news in said topics. 
 
 <!-- &nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying/fixing and maintaining cars. -->
 
@@ -42,7 +41,7 @@ title = "Dumitru Vulpe | Resume"
 
 ## Work Experience (2019 - present)
 - **Senior software engineer at Form3**: August 2025 - present  
-&nbsp; - Developing payment processing software to power highly available bank to bank transactions in Europe and UK and using multicloud Kubernetes architecture.
+&nbsp; - Developing payment processing software to power highly available bank to bank transactions in Europe and UK and using multicloud Kubernetes architecture.  
 &nbsp; - Developed big data powered statistical event auditing reporting system for partners using **AWS Athena**
 - **Full stack Go and NextJS engineer at Aviva**: March 2023 - June 2025  
 &nbsp; - Pioneering new technology stack within Aviva for a car insurance platform by developing Go Lambda functions for the backend and NextJS for customer portals   
@@ -52,9 +51,9 @@ title = "Dumitru Vulpe | Resume"
 - **Backend Go Software Engineer at Xiatech**: August 2021 - September 2022    
 &nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs using Go Lambdas on AWS with Terraform using SQS and Kinesis queues backed by MongoDB  
 - **Software Engineer at NCR:** June 2019 - August 2021   
-&nbsp; - Graduate position in summer of 2021, picking up where I left with my internships
+&nbsp; - Graduate position in summer of 2021, picking up where I left with my internships  
 &nbsp; - Summer internships during 2019, 2020 and part time employment during final year of university (2020-21)  
-&nbsp; - Using technologies like Angular, Ionic, Keycloak, Docker, Java Spring, and more on various RnD projects and production features
+&nbsp; - Using technologies like Angular, Ionic, Keycloak, Docker, Java Spring, and more on various RnD projects and production features  
 <!-- - **Tutoring:** 2019   -->
 <!-- &nbsp; - Computing tutoring for University of Dundee in 2019 during my studies there  -->
 
