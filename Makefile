@@ -1,5 +1,5 @@
 submodule:
 	git submodule update --init --recursive
 
-serve-dev:
+dev:
 	hugo serve -D --theme=researcher --disableFastRender
