@@ -15,7 +15,7 @@ pdf-only:
 	fi
 	@echo "Generating PDF from local build..."
 	node generate-pdf.js
-	@echo "PDF generated at public/Dumitru_Vulpe_CV.pdf"
+	@echo "PDF generated at public/dumitru_vulpe_cv.pdf"
 
 pdf: build pdf-only
 

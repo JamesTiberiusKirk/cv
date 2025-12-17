@@ -19,7 +19,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
 [menu]
   [[menu.main]]
     name = "Download CV (pdf)"
-    url = "/Dumitru_Vulpe_CV.pdf"
+    url = "/dumitru_vulpe_cv.pdf"
     weight = 2
   [[menu.main]]
     name = "GitHub"

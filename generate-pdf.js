@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = 8080;
-const OUTPUT_PDF = 'public/Dumitru_Vulpe_CV.pdf';
+const OUTPUT_PDF = 'public/dumitru_vulpe_cv.pdf';
 
 // Simple static file server
 function createServer(publicDir) {
