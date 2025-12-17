@@ -87,8 +87,19 @@ $y-medium: 1.0rem;
         }
     }
     ul {
-        list-style: inside;
-        padding-left: 0;
+        list-style: outside;
+        padding-left: 1.2rem;
+        // Remove extra spacing from paragraphs within list items
+        & > li > p {
+            margin-bottom: 0;
+            display: inline;
+        }
+        // Properly indent nested lists
+        & ul {
+            padding-left: 2rem;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
     }
     table {
         margin: $y-medium auto;

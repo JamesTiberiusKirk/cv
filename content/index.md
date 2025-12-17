@@ -8,69 +8,113 @@ title = "Dumitru Vulpe | Resume"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-&nbsp; Full time and freelance engineer working with GO writing microservices on multi cloud Kubernetes clusters across aws, gcp, and azure.
-My main tech related interests are in backend development, dev-ops, security and generally keeping up with news in said topics. 
+Senior Software Engineer focused on backend systems and cloud-native architectures. I specialise in Go and microservices on Kubernetes across AWS, GCP and Azure, primarily in fintech, insurance and SaaS. I’m comfortable owning work end-to-end: understanding requirements, designing systems, implementing services, and operating them in production with strong observability and CI/CD. Increasingly, my work centres on technical leadership: setting patterns, unblocking teams and driving reliable delivery.
 
-<!-- &nbsp; Other interests are applying the same problem solving and engineering skills to bodybuilding, cooking, modifying/fixing and maintaining cars. -->
+## Core Skills
 
+- **Languages & Backend**
+  - Go (primary), Node.js/TypeScript, Java  
+  - REST and gRPC APIs, microservices, event-driven architectures  
 
-## Backend Experience
-- Primary: **Go**; Secondary **Node.js**; Familiar: **Java**
-- Building and maintaining microservices for **Kubernetes** with a multicloud architectures
-- Writting serverless functions on **AWS Lambdas, step function** and **Vercel**
-- Deploying with and **Terraform** and **CDK**
-- Working with **gRPC**, **REST** \& **GraphQL** APIs
-- Early adopter of containerisation systems starting with **LXD/LXC** and later on with **Docker** in both personal and professional use
-- Experience with **PostgreSQL/CockroachDB**, **MySQL/MariaDB**, **MongoDB** and **DynamoDB** databases
-- Proxying and tls management with **Apache/Nginx** and **Traefik**  
-- Building and managing large scale event driven systems with Kinesis, SQS, Pub/Sub, Nats
-- Metrics and dashboards with **Prometheus**, **Cloud watch metrics**, **Grafana**
-- Big data with **AWS Athena**
+- **Cloud, DevOps & Infrastructure**
+  - AWS, GCP, Azure  
+  - Kubernetes, Docker, Terraform, AWS CDK  
+  - CI/CD with GitHub Actions and GitLab CI  
 
-## Frontend/Full stack Experience
-- Go templating with **Templ**, **HTMX**, **hyprscript** and **alpine.js**
-- **NextJS** meta framework \& **React** used for rapid website development
-- Great understanding of **JavaScript/TypeScript** and the underlying DOM system
+- **Data & Messaging**
+  - Relational: PostgreSQL, CockroachDB, MySQL/MariaDB  
+  - NoSQL: MongoDB, DynamoDB  
+  - Messaging: SQS, Kinesis, GCP Pub/Sub, NATS  
 
-## Other Tech Skills 
-- **Agile & Kanban:** experience with managing and collaborating within projects 
-- **Git:** extensive experience with Git for code versioning and collaboration
-- Extensive experience with **Linux/Unix** environments
-- Experience setting up **CI/CD** systems using **GitHub \& GitLab Actions and Workflows**
-- Moderate to advanced experience with **Bash** scripting
+- **Observability & Operations**
+  - Prometheus, Grafana, CloudWatch metrics and logging  
+  - Production debugging, performance profiling and incident response  
 
-## Work Experience (2019 - present)
-- **Senior software engineer at Form3**: August 2025 - present  
-&nbsp; - Developing payment processing software to power highly available bank to bank transactions in Europe and UK and using multicloud Kubernetes architecture.  
-&nbsp; - Developed big data powered statistical event auditing reporting system for partners using **AWS Athena**
-- **Full stack Go and NextJS engineer at Aviva**: March 2023 - June 2025  
-&nbsp; - Pioneering new technology stack within Aviva for a car insurance platform by developing Go Lambda functions for the backend and NextJS for customer portals   
-&nbsp; - Led a very large technical migration for the **templ** Go library, involving format shifting hundreds of files in a core repository, blocking said repository, coordinating with testing team and writting custom tooling to make the migration and automated diff powered testing work.
-- **Backend Go Software Engineer at Redbrain**: October 2022 - January 2023   
-&nbsp; - Connecting Shopify merchants with Google shopping and custom Ad campaigns by writing Go microservices in Kubernetes on GCP using PubSub and gRPC backed by PostgreSQL  
-- **Backend Go Software Engineer at Xiatech**: August 2021 - September 2022    
-&nbsp; - Worked on XFuse SaaS hyper-integration data platform for client's data needs using Go Lambdas on AWS with Terraform using SQS and Kinesis queues backed by MongoDB  
-- **Software Engineer at NCR:** June 2019 - August 2021   
-&nbsp; - Graduate position in summer of 2021, picking up where I left with my internships  
-&nbsp; - Summer internships during 2019, 2020 and part time employment during final year of university (2020-21)  
-&nbsp; - Using technologies like Angular, Ionic, Keycloak, Docker, Java Spring, and more on various RnD projects and production features  
-<!-- - **Tutoring:** 2019   -->
-<!-- &nbsp; - Computing tutoring for University of Dundee in 2019 during my studies there  -->
+- **General**
+  - Linux/Unix environments, Git, Bash  
+  - Agile and Kanban workflows, cross-team collaboration  
 
-<!--
-- **Kicktek Ltd:** 2016 summer job working as an IT assistant and working on their e-commerce installation, learning how it works, suggesting fixes, improvements, etc.
-- **Civica UK Ltd:** 1 week of work experience, lightly shadowing their software development routine, testing, updating, deployment and maintenance.
-- **Redbridge College:** Year long work experience (1 day a week) took a position in the IT network and service team. Had responsibilities such as responding to help desk requests, testing equipment, repairs and others.
-!-->
+## Professional Achievements
 
-# Other Experiences/Achievements
-- Applying my engineering mindset to learning automotive work by fixing, maintaining and modifying my 1997 Maxda MX5
-- Created and managed Dundee University Rock and Metal Society, organising different events including live musical concerts and more
-- Multiple years of class representative experience in university and college
-- School of Computing Vice President 
-<!-- - Participated in UKRock (national model rocketry competition) and represented UK in an international competition. -->
+- **Led large-scale templ migration at Aviva** – Planned and executed a migration to the templ Go library across hundreds of files in a core repository under a controlled code freeze, with custom tooling and automated diff-based checks to minimise risk and unblock further development.  
 
-# Non-Tech Skills
-- The ability to quickly pickup different workflows and required technical skills
-- Excellent team player and leadership and planning skills (plenty of experience from leading University team projects, taking part of competitions and from managing the Rock and Metal Society)
+- **Stabilised contractor-built platform at Aviva** – Joined a small, startup-style team taking over a contractor-built car insurance platform. Rewrote, refactored and rebuilt key services, introduced clearer patterns and testing, and helped turn the prototype into a maintainable, owned product codebase.  
 
+- **Built auditing and reporting at Form3** – Delivered a feature that records incoming payment events and requests for auditing and partner reporting, using a combination of event streams, synchronous APIs and AWS Athena queries over stored data to provide statistical views of product usage.  
+
+- **Integrated complex retail backends at Xiatech/Redbrain** – Designed and implemented event-driven data flows connecting retailers’ back-office systems (inventory, shipping, bespoke backends) to external platforms such as Google Shopping and other services, with an emphasis on idempotency, recoverability and clear operational telemetry.  
+
+- **Prototyped dashboards and mobile management at NCR** – Developed an early statistics dashboard and a prototype mobile management app for NCR terminals, demonstrating how Docker packaging and modern deployment could support operational visibility and control.
+
+## Experience
+
+### Senior Software Engineer – Form3  
+**Aug 2025 – Present**
+
+- Develop payment processing software that powers highly available bank-to-bank transactions in Europe and the UK.  
+- Design and maintain Go-based microservices running on multi-cloud Kubernetes clusters (AWS, GCP, Azure) in a regulated fintech environment.  
+- Work with both high-throughput event-driven pipelines and critical synchronous API flows, ensuring reliable payment processing and comprehensive audit trails.  
+- Delivered a feature that captures and exposes auditing and statistical reporting for incoming events and requests using AWS Athena over stored data.  
+- Contribute to architecture discussions around scalability, resiliency and observability for new and existing services.
+
+### Full Stack Engineer (Go / Next.js) – Aviva  
+**Mar 2023 – Jun 2025**
+
+- Joined a small, startup-style team within Aviva, taking over a contractor-built codebase for a new car insurance platform and turning it into a stable, maintainable product.  
+- Pioneered a new technology stack using Go on AWS Lambda for backend services and Next.js for customer portals, establishing patterns for cloud infrastructure and CI/CD pipelines.  
+- Led a large templating migration to the `templ` Go library, reformatting hundreds of files in a central repository under a coordinated code freeze. Built custom tooling and automated diff-based testing to safely run and validate the migration, reducing manual effort and avoiding regressions.  
+- Acted as one of the main Go engineers on the team, helping others learn Go idioms and standards through pairing, code reviews and example patterns.  
+- Built backend flows and frontend views enabling customers to perform mid-term adjustments on their car insurance policies through tailored journeys, with appropriate validation, auditing and error handling.  
+- Collaborated with product, QA and architecture teams to design, deliver and roll out features end-to-end, including monitoring and post-deployment follow-up.
+
+### Backend Go Software Engineer – Redbrain  
+**Oct 2022 – Jan 2023**
+
+- Built Go microservices on GCP (GKE) to connect Shopify merchants with Google Shopping and custom ad campaigns as part of an R&D initiative that went on to become a launched, revenue-generating Shopify extension.  
+- Implemented Pub/Sub-driven services and gRPC APIs backed by PostgreSQL, focusing on performance, reliability and clear error handling.  
+- Contributed to improvements in deployment workflows, observability dashboards and runbooks for production support.
+
+### Backend Go Software Engineer – Xiatech  
+**Aug 2021 – Sep 2022**
+
+- Worked on the XFuse SaaS “hyper-integration” data platform, connecting clients’ retail backends (inventory systems, shipment systems and bespoke internal tools) with external services.  
+- Built backend components in Go on AWS Lambda, using Terraform for infrastructure as code and integrating SQS- and Kinesis-based pipelines backed by MongoDB.  
+- Helped design and implement data flows for client integrations with an emphasis on robustness, idempotency and recoverability.  
+- Collaborated with cross-functional teams to understand integration requirements and translate them into scalable technical solutions.
+
+### Software Engineer – NCR  
+**Jun 2019 – Aug 2021**
+
+- Joined as a summer intern and continued through multiple internships and a graduate role alongside final-year university studies.  
+- Built features using Angular and Ionic front-ends with Java Spring back-ends, containerised with Docker and integrated with Keycloak for authentication.  
+- Prototyped a mobile management app and dashboard concepts for NCR terminals, including a Docker-based packaging approach for easier deployment.  
+- Contributed to both R&D projects and production features in an Agile environment, working with product managers and designers to deliver customer-facing functionality.
+
+## Personal Projects
+
+- **Fintrack – Personal finance tracker (Go, templ, HTMX, SQLite)**  
+  CLI + web app for managing accounts and transactions, built with production intent rather than as a toy. Go backend with SQLite and migrations, templ/HTMX frontend, and a small provider layer for LLM/AI integration. Focuses on clean domain modelling, predictable data migrations and a workflow that mirrors real deployment (Docker, CI-friendly layout).
+
+- **Recipe CMS – Full-stack recipe manager (Go, Echo, templ, PostgreSQL)**  
+  Self-hosted recipe application using Go, Echo, templ and Tailwind, backed by PostgreSQL. Uses Docker and a custom migration tool to keep schema changes repeatable and safe, and serves as a full end-to-end example of a small content platform.
+
+- **Migrator – Postgres migration library and CLI (Go)**  
+  Lightweight migration tool that can run as a library at app startup or as a standalone CLI in CI/CD. Designed to keep schema and data migrations explicit, versioned and easy to automate across projects.
+
+- **Workspacer – Tmux workspace/session manager (Go, TUI)**  
+  Developer tool to manage tmux sessions and project workspaces from a terminal UI, aimed at speeding up daily development workflows and making multi-project context switching simpler.
+
+- **serverconfig – Homelab orchestration (Python, Bash, Docker)**  
+  Repository to manage self-hosted stacks: env-driven configuration, Docker stack definitions and orchestration tooling. Early versions use Bash + Make for v0 prototyping; newer work moves logic into Python (including planned Nginx Proxy Manager API integration) to automatically wire stacks to domains and ports and update dashboards.
+
+## Education
+
+**BSc (Hons) Applied Computing**  
+University of Dundee, 2021
+
+## Other Experience & Achievements
+
+- **Hands-on automotive engineering** – Fixing, maintaining and modifying a 1997 Mazda MX-5, applying engineering and troubleshooting skills outside of software, including electrical work and mechanical upgrades.  
+- **Rock and Metal Society – Founder & President, University of Dundee** – Created and ran a student society, organising events including live concerts and building a small committee team.  
+- **School of Computing – Vice President and Class Representative** – Represented students, coordinated with staff and helped organise departmental activities and feedback loops.  
+- **UK Rocketry Competitions** – Participated in UKROC and represented the UK in an international model rocketry competition, focusing on design, testing and launch operations.

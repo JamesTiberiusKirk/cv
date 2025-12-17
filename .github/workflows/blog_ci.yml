@@ -16,14 +16,28 @@ jobs:
         with:
           hugo-version: '0.147.0'
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Node dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
       - name: Clean public directory
         run: rm -rf public
 
-      - name: Build site with researcher theme
-        run: hugo --theme researcher
+      - name: Build Hugo site
+        run: make build
+
+      - name: Generate PDF
+        run: make pdf-only
 
       - name: Debug output
-        run: ls -lah public && du -sh public
+        run: ls -lah public && du -sh public && ls -lah public/*.pdf
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

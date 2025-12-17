@@ -19,8 +19,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
 [menu]
   [[menu.main]]
     name = "Download CV (pdf)"
-    pre = '<script src="print.js"></script><span onclick="printDiv()">'
-    post = '</span>'
+    url = "/Dumitru_Vulpe_CV.pdf"
     weight = 2
   [[menu.main]]
     name = "GitHub"

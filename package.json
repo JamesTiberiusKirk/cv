@@ -1,0 +1,11 @@
+{
+  "name": "cv-pdf-generator",
+  "version": "1.0.0",
+  "description": "Generate PDF from CV site using Playwright",
+  "scripts": {
+    "generate-pdf": "node generate-pdf.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}
