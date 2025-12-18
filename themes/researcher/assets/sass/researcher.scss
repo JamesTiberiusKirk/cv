@@ -39,6 +39,9 @@ $y-medium: 1.0rem;
     font-family: "Inconsolata";
     line-height: 1.2;
 }
+body {
+    background-color: $bg-light;
+}
 .container {
     max-width: $max-width;
 }
@@ -48,10 +51,12 @@ $y-medium: 1.0rem;
 }
 .nav-link {
     @extend %link-default;
+    font-size: 0.9rem;
 }
 #content {
     a {
         @extend %link-default;
+        font-size: 0.8rem;
     }
     p {
         margin-bottom: $y-small;
@@ -141,5 +146,84 @@ $y-medium: 1.0rem;
 #footer {
     a {
         @extend %link-dark;
+    }
+}
+
+.download-pdf {
+    text-align: right;
+    margin-bottom: 1rem;
+    a {
+        @extend %link-default;
+        font-size: 0.9rem;
+    }
+}
+
+// Print styles - hide download button when printing
+@media print {
+    .download-pdf {
+        display: none;
+    }
+}
+
+// Dark mode
+@media (prefers-color-scheme: dark) {
+    * {
+        color: $white;
+    }
+    body {
+        background-color: $bg-dark;
+    }
+    .navbar-brand {
+        color: $white;
+        & * {
+            color: $white;
+        }
+        &:hover {
+            color: $white;
+        }
+    }
+    .nav-link {
+        color: $red-dark;
+        & * {
+            color: $red-dark;
+        }
+        &:hover {
+            color: $red-dark;
+        }
+    }
+    #content {
+        a {
+            color: $red-dark;
+            & * {
+                color: $red-dark;
+            }
+            &:hover {
+                color: $red-dark;
+            }
+        }
+        table {
+            & th, & td {
+                border: 1px solid $border-dark;
+            }
+            & tr:nth-child(2n) {
+                background-color: $code-bg-dark;
+            }
+        }
+        code {
+            color: $white;
+            background-color: $code-bg-dark;
+            border: 1px solid $border-dark;
+        }
+    }
+    #footer {
+        a {
+            color: $white;
+            & * {
+                color: $white;
+            }
+            &:hover {
+                color: $white;
+            }
+        }
     }
 }

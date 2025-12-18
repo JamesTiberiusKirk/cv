@@ -2,9 +2,9 @@
 title = "Dumitru Vulpe | Resume"
 +++
 
-[dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com) | [linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a) | [github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
 
-## Bio
+# Dumitru Vulpe | Resume
+[dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com) | [linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a) | [github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
 
 <!-- {{< figure class="avatar" src="/avatar.jpg" >}} -->
 
