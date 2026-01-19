@@ -3,7 +3,7 @@ title = "Dumitru Vulpe | Resume"
 +++
 
 
-# Dumitru Vulpe | Resume
+# Dumitru Vulpe | Senior Backend Engineer
 [dumitru.vulpe@outlook.com](mailto:dumitru.vulpe@outlook.com) | [linkedin.com/in/dumitru-v-baaa7411a](https://www.linkedin.com/in/dumitru-v-baaa7411a) | [github.com/JamesTiberiusKirk](https://github.com/JamesTiberiusKirk)
 
 <!-- {{< figure class="avatar" src="/avatar.jpg" >}} -->
@@ -36,6 +36,8 @@ Senior Software Engineer focused on backend systems and cloud-native architectur
 
 ## Professional Achievements
 
+- **Delivered ScoutNonLeague platform at Atom Web Development** – Built a full-stack platform connecting non-league football players with clubs in England (and eventually world wide), delivered end-to-end in a short timeframe. Designed and implemented the complete system in Go with Echo, PostgreSQL, templ and HTMX, featuring multi-version CV system, events/opportunities, real-time messaging via WebSockets, Stripe subscriptions and guardian management. Established production-grade architecture with scalability best practices for both codebase growth and runtime load, clean Repository/Service/Handler patterns, and Playwright E2E tests. Delivered a complete development strategy and framework, and trained a junior developer to maintain and extend the platform.
+
 - **Led large-scale templ migration at Aviva** – Planned and executed a migration to the templ Go library across hundreds of files in a core repository under a controlled code freeze, with custom tooling and automated diff-based testing to minimise risk. Worked closely with, and effectively led, the test team to validate changes. The migration modernised the toolchain and removed a major bottleneck, significantly improving delivery speed and long-term throughput of safe changes.  
 
 - **Stabilised contractor-built platform at Aviva** – Joined a small, startup-style team taking over a contractor-built car insurance platform. Rewrote, refactored and rebuilt key services, introduced clearer patterns and testing, and helped turn the prototype into a maintainable, owned product codebase, reducing core production issues and improving developer efficiency.  
@@ -46,15 +48,23 @@ Senior Software Engineer focused on backend systems and cloud-native architectur
 
 ## Experience
 
-#### Senior Software Engineer – Form3  
-**Aug 2025 – Present**
+#### Senior Software Engineer – Atom Web Development
+**Jan 2026**
 
-- Develop payment processing software that powers highly available bank-to-bank transactions in Europe and the UK.  
-- Design and maintain Go-based microservices running on multi-cloud Kubernetes clusters (AWS, GCP, Azure) in a regulated fintech environment.  
-- Work with both high-throughput event-driven pipelines and critical synchronous API flows, ensuring reliable payment processing and comprehensive audit trails.  
-- Delivered a feature that captures and exposes auditing and statistical reporting for incoming events and requests using AWS Athena over stored data.  
-- Contribute to architecture discussions around scalability, resiliency and observability for new and existing services.  
-- Presented a company-wide technical talk on an internal payment resilience proof-of-concept involving a majority of UK banks, demonstrating how a shared resilience network could improve cross-bank reliability.  
+- Delivered ScoutNonLeague, a full-stack platform connecting non-league football players with clubs, coaches and scouts in England, built end-to-end in a short timeframe.
+- Designed and implemented the complete backend in Go with Echo, PostgreSQL, templ and HTMX, featuring multi-version CV system, events/opportunities, real-time messaging, Stripe subscriptions and guardian management.
+- Established production-grade architecture with scalability best practices for both codebase complexity and runtime load, clean Repository/Service/Handler layering, comprehensive middleware stack, and Playwright E2E tests.
+- Delivered a complete development strategy and framework, and trained a junior developer to maintain and extend the platform independently.
+
+#### Senior Software Engineer – Form3
+**Aug 2025 – Dec 2025**
+
+- Develop payment processing software that powers highly available bank-to-bank transactions in Europe and the UK.
+- Design and maintain Go-based microservices running on multi-cloud Kubernetes clusters (AWS, GCP, Azure) in a regulated fintech environment.
+- Work with both high-throughput event-driven pipelines and critical synchronous API flows, ensuring reliable payment processing and comprehensive audit trails.
+- Delivered a feature that captures and exposes auditing and statistical reporting for incoming events and requests using AWS Athena over stored data.
+- Contribute to architecture discussions around scalability, resiliency and observability for new and existing services.
+- Presented a company-wide technical talk on an internal payment resilience proof-of-concept involving a majority of UK banks, demonstrating how a shared resilience network could improve cross-bank reliability.
 
 #### Full Stack Engineer (Go / Next.js) – Aviva  
 **Mar 2023 – Jun 2025**
@@ -92,7 +102,7 @@ Senior Software Engineer focused on backend systems and cloud-native architectur
 
 ## Personal Projects
 
-- **Fintrack – Personal finance tracker (Go, templ, HTMX, SQLite)**  
+- **Fintrack – Personal finance tracker (Go, templ, HTMX, SQLite)**
   CLI + web app for managing accounts and transactions, built with production intent rather than as a toy. Go backend with SQLite and migrations, templ/HTMX frontend, and a small provider layer for LLM/AI integration. Focuses on clean domain modelling, predictable data migrations and a workflow that mirrors real deployment (Docker, CI-friendly layout).  
 
 - **Recipe CMS – Full-stack recipe manager (Go, Echo, templ, HTMX, PostgreSQL)**  
@@ -104,8 +114,8 @@ Senior Software Engineer focused on backend systems and cloud-native architectur
 - **Workspacer – Tmux workspace/session manager (Go, TUI)**  
   Developer tool to manage tmux sessions and project workspaces from a terminal UI, aimed at speeding up daily development workflows and making multi-project context switching simpler.  
 
-- **serverconfig – Homelab orchestration (Python, Bash, Docker)**  
-  Repository to manage self-hosted stacks: env-driven configuration, Docker stack definitions and orchestration tooling. Early versions use Bash + Make for v0 prototyping; newer work plans to move logic into Go to automatically derive env variables and wire stacks to domains, ports, storage pools and metrics dashboards.  
+- **Stackr – Homelab orchestration (Go, CLI, Docker)**
+  CLI tool and daemon (stackrd) for managing self-hosted Docker stacks. Handles env-driven configuration, stack definitions and orchestration, automatically wiring stacks to domains, ports, storage pools and metrics dashboards.  
 
 ## Education
 
@@ -117,3 +127,4 @@ Senior Software Engineer focused on backend systems and cloud-native architectur
 - **Rock and Metal Society – Founder & President, University of Dundee** – Created and ran a student society, organising events including live concerts and building and managing a committee team.  
 - **School of Computing – Vice President and Class Representative** – Represented students, coordinated with staff and helped organise departmental activities and feedback loops.  
 - **UK Rocketry Competitions** – Participated in UKROC and represented the UK in an international model rocketry competition, focusing on design, testing and launch operations.
+

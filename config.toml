@@ -18,11 +18,20 @@ math = false          # enable KaTeX (https://katex.org/) globally
 
 [menu]
   [[menu.main]]
-    name = "Download CV (pdf)"
-    url = "/dumitru_vulpe_cv.pdf"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Platform Engineer CV"
+    url = "/platform-engineer"
     weight = 2
+  [[menu.main]]
+    name = "Download PDFs"
+    url = "#pdfs"
+    weight = 3
   [[menu.main]]
     name = "GitHub"
     url = "https://github.com/JamesTiberiusKirk"
+    weight = 4
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
