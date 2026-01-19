@@ -1,0 +1,18 @@
+{{ `
+## Personal Projects
+
+- **Fintrack – Personal finance tracker (Go, templ, HTMX, SQLite)**
+  CLI + web app for managing accounts and transactions, built with production intent rather than as a toy. Go backend with SQLite and migrations, templ/HTMX frontend, and a small provider layer for LLM/AI integration. Focuses on clean domain modelling, predictable data migrations and a workflow that mirrors real deployment (Docker, CI-friendly layout).
+
+- **Recipe CMS – Full-stack recipe manager (Go, Echo, templ, HTMX, PostgreSQL)**
+  Self-hosted recipe application using Go, Echo, templ, HTMX and Tailwind, backed by PostgreSQL. Uses Docker and a custom migration tool to keep schema changes repeatable and safe, and serves as a full end-to-end example of a small content platform.
+
+- **Migrator – Postgres migration library and CLI (Go)**
+  Lightweight migration tool that can run as a library at app startup or as a standalone CLI in CI/CD. Designed to keep schema and data migrations explicit, versioned and easy to automate across projects.
+
+- **Workspacer – Tmux workspace/session manager (Go, TUI)**
+  Developer tool to manage tmux sessions and project workspaces from a terminal UI, aimed at speeding up daily development workflows and making multi-project context switching simpler.
+
+- **Stackr – Homelab orchestration (Go, CLI, Docker)**
+  CLI tool and daemon (stackrd) for managing self-hosted Docker stacks. Handles env-driven configuration, stack definitions and orchestration, automatically wiring stacks to domains, ports, storage pools and metrics dashboards.
+` | markdownify }}
