@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://www.dumitruvulpe.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dumitru Vulpe | Backend/Platform Engineer Resume</title>
+      <link>https://www.dumitruvulpe.com/platform-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dumitruvulpe.com/platform-engineer/</guid>
+      <description>&lt;h1 id=&#34;dumitru-vulpe--senior-backend--platform-engineer&#34;&gt;Dumitru Vulpe | Senior Backend &amp;amp; Platform Engineer&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:dumitru.vulpe@outlook.com&#34;&gt;dumitru.vulpe@outlook.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/dumitru-v-baaa7411a&#34;&gt;linkedin.com/in/dumitru-v-baaa7411a&lt;/a&gt; | &lt;a href=&#34;https://github.com/JamesTiberiusKirk&#34;&gt;github.com/JamesTiberiusKirk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- &lt;figure class=&#34;avatar&#34;&gt;&lt;img src=&#34;https://www.dumitruvulpe.com/avatar.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA; --&gt;&#xA;&lt;p&gt;Backend Engineer specializing in distributed systems and developer infrastructure platforms. I build high-performance backend services in Go and TypeScript/Node.js, running on Kubernetes across AWS, GCP and Azure for fintech, insurance, and developer platform companies. I own backend systems end-to-end: designing APIs and microservices, implementing scalable distributed architectures, and operating them in production with comprehensive observability. Increasingly, my work focuses on backend infrastructure that powers developer tools and platforms, combining deep backend expertise with a passion for developer experience.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
